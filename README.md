@@ -25,7 +25,6 @@ https://ryans-workout-tracker.herokuapp.com/
   - [Deployed Site](#deployed-site)
   - [Description](#description)
   - [Usage](#usage)
-  - [Directory Structure](#directory-structure)
   - [Questions](#questions)
  
  ---
