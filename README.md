@@ -2,7 +2,7 @@
 ![Language](https://img.shields.io/static/v1?label=JavaScript&message=language&color=brightgreen)
 
 ## Deployed Site:
-https://group1-simple-resume.herokuapp.com/
+https://ryans-workout-tracker.herokuapp.com/
 
 ![IMAGE](images/workoutstats.png)
 
